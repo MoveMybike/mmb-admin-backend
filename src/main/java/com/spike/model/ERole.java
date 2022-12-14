@@ -1,0 +1,7 @@
+package com.spike.model;
+
+public enum ERole {
+	  ROLE_USER,
+	  ROLE_MODERATOR,
+	  ROLE_ADMIN
+}
